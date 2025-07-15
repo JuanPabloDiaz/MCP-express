@@ -1,0 +1,61 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="539px" height="436px" viewBox="-0.5 -0.5 539 436" content="&lt;mxfile&gt;&lt;diagram id=&quot;Sq-xsKoKspWsStvvgH_0&quot; name=&quot;Page-1&quot;&gt;7VdRb9owEP41eQQlMQH6SKBsndapUidtfTTEJFadmNlOgf363cUOSRromIqmPeylzX32nX33fedrPTLP9x8U3Wb3MmHCC/1k75GFF4Y3AYGfCBwsEEUOSBVPLBQ0wCP/yRzoO7TkCdOdjUZKYfi2C65lUbC16WBUKbnrbttI0T11S1PWAx7XVPTRbzwxmUWnkd/gHxlPs/rkwHcrOa03O0BnNJG7FkRuPTJXUhr7le/nTGDt6rpYv+WZ1ePFFCvMJQ6hdXihonS5uXuZQ50sXHGLn3RtpPJInEnFf8rCUPGZrph4kJobLgvYoWzKMRU8RVuwDZrizDZtlHw+FhBSj1dSJQzOWPgYRW8tdxu+Z3Dd2F2VKcP2Z9MNjkUE8TGZM6MOsMU5kLGruxPe1Jm7hkUSWShrEVgTS51u0mPgprTw4ap7hrhh0Kt1zLRBhLMdZIjXgFuAljPmIW9jUVUTL6PYpnIZ/yhRGnFmDGp9hseHyxT8ytVwLXMwqOJMDFZQkRIsQ/NBouiOy8YZvlL8/XV2j9UTZcqL+jQMUK/3pACFt4fnkOUiQA6dOOCYhyrOPdeaF+lbdLmupKs6rP+nNIaTyTDyow6Vo5s+l2Hdd20yw+j9ZJI+lTMgYuyFJEDtxiUUgWkNe2YpJhX6S0VztpPqubWtyyI+G3rouMT3TA813cLC3fzLYHY3qCJByGVZ8A1nyYAiMFBlYXjOBolclzkAtGozjHiukasbkVhuNpoZ97pOTzbkFVou8G+GZNqhipA+VREZD8MTrTe+QuuNemx9kiVU5d8oEAlBzJ36HGXbqk9wSsrXKE50+QQoNWMJTsYYE+YwD7HzFfrFuPDoXApZVFCRzHDYNggEeITR0JoFbkS4hQVX8DDYFS1LzB2iQELfcSZAlZz55F6fyljs3cCw1qG29ty03MB6aq00TmjUPjZzm+NbXEJ1ZKnWrCMvQ1XK6jfmNONt7oKaPMUEtOxL98hTjLp4D5JXD0otn0l3pB2bqw5hr+q82n8K/CZQMHkVyCbYC1QJ7JjkRZob/9fcOzVH+pob/T3NjYKuVEavH6JLNfc6EPGvpTkwm7+i7fbmXxFy+ws=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <g>
+            <ellipse cx="267.67" cy="9.13" rx="7.083333333333334" ry="5.625" fill="#ffffff" stroke="#000000" stroke-width="2" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 267.67 14.75 L 267.67 33.5 M 267.67 21.5 L 253.5 18.5 M 267.67 21.5 L 281.83 18.5 M 267.67 33.5 L 253.5 48.5 M 267.67 33.5 L 281.83 48.5" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <rect x="168.51" y="411" width="200" height="25" fill="none" stroke="none" pointer-events="all"/>
+        </g>
+        <g/>
+        <g>
+            <path d="M 0.38 251 L 536.63 251 L 536.63 311 L 0.38 311 L 0.38 251 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="268.01" y="271.5">
+                    BAF
+                </text>
+                <text x="268.01" y="285.5">
+                    Business Agent Framework
+                </text>
+                <text x="268.01" y="299.5">
+                    https://pages.github.tools.sap/ICN-AI-Agents/unified-agent-runtime-documentation/
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 218.5 121 L 318.5 121 L 318.5 181 L 218.5 181 L 218.5 121 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+        </g>
+        <g>
+            <g fill="#000000" font-family="&quot;Helvetica&quot;" text-anchor="middle" font-size="12px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="268" y="155.5">
+                    Joule
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 268.5 121 L 268.5 94" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <ellipse cx="268.5" cy="86" rx="8" ry="8" fill="none" stroke="#000000" stroke-width="2" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 268.5 78 L 268.5 51" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 248.5 93 L 243.5 91 L 248.5 101 L 253.5 91 L 248.5 93 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <g fill="#000000" font-family="&quot;Arial&quot;, &quot;Helvetica&quot;" font-size="11px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="244" y="85.5">
+                    R
+                </text>
+            </g>
+        </g>
+        <g>
+            <path d="M 268.51 251 L 268.51 224" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <ellipse cx="268.51" cy="216" rx="8" ry="8" fill="none" stroke="#000000" stroke-width="2" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 268.51 208 L 268.51 181" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <path d="M 248.51 223 L 243.51 221 L 248.51 231 L 253.51 221 L 248.51 223 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+            <g fill="#000000" font-family="&quot;Arial&quot;, &quot;Helvetica&quot;" font-size="11px" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+                <text x="244.01" y="215.5">
+                    R
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
