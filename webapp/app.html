@@ -1,26 +1,28 @@
 <html>
-
-<head>
+  <head>
     <title>App</title>
-    <link rel="stylesheet" type="text/css" href="static/styles.css">
-</head>
+    <link rel="stylesheet" type="text/css" href="static/styles.css" />
+  </head>
 
-<body>
+  <body>
     <div class="container" id="target-app">
-        <h2>App</h2>
-        <button id="button-red" style="background-color: red;">Red Button</button>
-        <button id="button-blue" style="background-color: blue;">Blue Button</button>
-        <button id="button-green" style="background-color: green;">Green Button</button>
-        <button id="button-yellow" style="background-color: rgb(242, 255, 0);color: black;">Yellow Button</button>
+      <h2>MCP Express App</h2>
+      <button id="button-red" style="background-color: red">Red Button</button>
+      <button id="button-blue" style="background-color: blue">
+        Blue Button
+      </button>
+      <button id="button-green" style="background-color: green">
+        Green Button
+      </button>
+      <button id="button-yellow" style="background-color: yellow; color: black">
+        Yellow Button
+      </button>
     </div>
     <script src="static/app.js"></script>
     <script>
-        document.querySelectorAll('button').forEach(button => {
-            button.addEventListener('click', (event) => {
-                
-            });
-        });
+      document.querySelectorAll("button").forEach((button) => {
+        button.addEventListener("click", (event) => {});
+      });
     </script>
-</body>
-
+  </body>
 </html>

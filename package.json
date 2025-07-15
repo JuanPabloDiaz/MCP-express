@@ -2,6 +2,7 @@
   "name": "mcp_express_test",
   "version": "1.0.0",
   "description": "Express MCP Test",
+  "packageManager": "npm@11.4.2",
   "scripts": {
     "start": "tsx watch server.ts"
   },
